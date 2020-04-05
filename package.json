@@ -1,0 +1,16 @@
+{
+  "name": "tracklories-backend",
+  "version": "1.0.0",
+  "description": "Backend Project Tracklories",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Jose Vega",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
