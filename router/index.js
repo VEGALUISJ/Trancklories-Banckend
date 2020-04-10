@@ -69,6 +69,7 @@ route.post('/login', async(req, res) => {
         res.status(500).send({message: err.message})
         }
     }
+    
 })
 
 module.exports = route;
