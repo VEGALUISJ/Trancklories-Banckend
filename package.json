@@ -11,6 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "firebase": "^7.13.2",
+    "firebase-admin": "^8.10.0"
   }
 }
