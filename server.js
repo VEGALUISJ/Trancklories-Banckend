@@ -9,5 +9,5 @@ app.use(require('./router/index'));
 
 
 app.listen('3000', function(){
-    console.log('Servidor Escuchando en el puerto 3000')
+    console.log('Server listening in port 3000')
 })
